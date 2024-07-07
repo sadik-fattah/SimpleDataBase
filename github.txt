@@ -1,4 +1,4 @@
-git add .
+git addgit add .
 git commit -m "my changes" 
 git remote add origin https://github.com/sadik-fattah/GamedataBase.git
-git push -u origin master
+git push -u origin main
