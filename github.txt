@@ -1,5 +1,11 @@
+// update repository from the command line
 git add .
 git commit -m "my changes" 
 git remote add origin https://github.com/sadik-fattah/GamedataBase.git
 
+git push -u origin main
+
+//push an existing repository from the command line
+git remote add origin https://github.com/sadik-fattah/Android_git_proj.git
+git branch -M main
 git push -u origin main
