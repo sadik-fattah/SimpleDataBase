@@ -2,144 +2,168 @@
     {
         "title": "Android UI Tutorial - Android ScrollView 2",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-scrollview-2.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-scrollview-2.html",
+        "type": "AndroidUI"
         
     },
     {
         "title": "Android UI Tutorial - Android ListFragment",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-listfragment.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-listfragment.html",
+        "type": "AndroidUI"
         
     },
     {
         "title": "Android UI Tutorial - Android TimePicker",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-timepicker.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-timepicker.html",
+        "type": "AndroidUI"
         
     },
     {
           "title": "Android UI Tutorial - Android DatePicker",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-datepicker.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-datepicker.html",
+        "type": "AndroidUI"
       
     },
     {
          "title": "Android UI Tutorial - Android AnalogClock",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-analogclock.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-analogclock.html",
+        "type": "AndroidUI"
        
     },
     {
         "title": "Android UI Tutorial - Android DigitalClock",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-digitalclock.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-digitalclock.html",
+        "type": "AndroidUI"
         
     },
     {
         "title": "Android UI Tutorial - Android Action Bar",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-action-bar.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-action-bar.html",
+        "type": "AndroidUI"
         
     },
     {
         "title": "Android UI Tutorial - Android TabHost",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-tabhost.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-tabhost.html",
+        "type": "AndroidUI"
         
     },
     {
           "title": "Android UI Tutorial - Android RadioButton",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-radiobutton.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-radiobutton.html",
+        "type": "AndroidUI"
       
     },
     {
         "title": "Android UI Tutorial - Android TextView",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-textview.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-textview.html",
+        "type": "AndroidUI"
         
     },
     {
          "title": "Android UI Tutorial - Android Options Menu",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-options-menu.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-options-menu.html",
+        "type": "AndroidUI"
        
     },
     {
          "title": "Android UI Tutorial - Android Context Menu",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-context-menu.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-context-menu.html",
+        "type": "AndroidUI"
        
     },
     {
          "title": "Android UI Tutorial - Android MapView",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-mapview.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-mapview.html",
+        "type": "AndroidUI"
        
     },
     {
         "title": "Android UI Tutorial - Android SlidingDrawer",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android_8.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android_8.html",
+        "type": "AndroidUI"
         
     },
     {
          "title": "Android UI Tutorial - Android LayoutTransition",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android_54.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android_54.html",
+        "type": "AndroidUI"
        
     },
     {
           "title": "Android UI Tutorial - Android ScrollView 1",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-scrollview.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-scrollview.html",
+        "type": "AndroidUI"
       
     },
     {
         "title": "Android UI Tutorial - Android FrameLayout",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-framelayout.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-framelayout.html",
+        "type": "AndroidUI"
         
     },
     {
         "title": "Android UI Tutorial - Android TableLayout",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-tablelayout.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-tablelayout.html",
+        "type": "AndroidUI"
         
     },
     {
          "title": "Android UI Tutorial - Android RelativeLayout",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android_12.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android_12.html",
+        "type": "AndroidUI"
        
     },
     {
          "title": "Android UI Tutorial - Android LinearLayout",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-linearlayout.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-linearlayout.html",
+        "type": "AndroidUI"
        
     },
     {
         "title": "Android UI Tutorial - Android ImageView",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-imageview.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-imageview.html",
+        "type": "AndroidUI"
         
     },
     {
         "title": "Android UI Tutorial - Android ImageSwitcher",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android.html",
+        "type": "AndroidUI"
         
     },
     {"title": "Android UI Tutorial - Android GridView",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-gridview.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/android-ui-tutorial-android-gridview.html",
+        "type": "AndroidUI"
         
     },
     {
          "title": "Android UI Tutorial - Android Fragments",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/server-inventor.html"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/server-inventor.html",
+        "type": "AndroidUI"
        
     }
 
