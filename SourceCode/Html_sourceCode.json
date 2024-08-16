@@ -1,9 +1,16 @@
 [
     {
-        "title": "Lessons not available, contact us to get them",
+        "title": "Html & Css :Tags Example 1",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/contact-as.html",
-        "type": "Contact_as"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/html-css-staff.html",
+        "type": "Html"
+        
+    },
+    {
+        "title": "Html & Css :Tags Example 2",
+        "name": "Jakinzo",
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/html-css-tags-example-2.html",
+        "type": "Html"
         
     }
 ]
