@@ -1,10 +1,50 @@
 [
     {
         "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafG1gMP3m4r_J7pyq29iGrn8ywLbSrztumTmnMN4gVi96CMXUuK9cBt1wZmJ1u_zW78FMK5YfuIpIACRwDp1nvX1lciV30YxyFXVamuMKTyTfQ4TVo8YBn_U_2Q1JZd4eB9rwXwPLr2SBmk7kuS6thYALv3-NvSSNC_66wOfPd5VoKr6SCAX0ZlqSue0/s320/csharp.png",
-        "title": "Lessons not available, contact us to get them",
+        "title": "C# System API : Microsoft.Win32",
         "name": "Jakinzo",
-        "url": "https://s0urce-c0de.blogspot.com/2024/08/contact-as.html",
-        "type": "Contact_as"
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/c-system-api-microsoftwin32.html",
+        "type": "C_Sharp"
+        
+    },
+    {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafG1gMP3m4r_J7pyq29iGrn8ywLbSrztumTmnMN4gVi96CMXUuK9cBt1wZmJ1u_zW78FMK5YfuIpIACRwDp1nvX1lciV30YxyFXVamuMKTyTfQ4TVo8YBn_U_2Q1JZd4eB9rwXwPLr2SBmk7kuS6thYALv3-NvSSNC_66wOfPd5VoKr6SCAX0ZlqSue0/s320/csharp.png",
+        "title": "C# System API : System ex 1",
+        "name": "Jakinzo",
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/c-system-api-system-ex-1.html",
+        "type": "C_Sharp"
+        
+    },
+    {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafG1gMP3m4r_J7pyq29iGrn8ywLbSrztumTmnMN4gVi96CMXUuK9cBt1wZmJ1u_zW78FMK5YfuIpIACRwDp1nvX1lciV30YxyFXVamuMKTyTfQ4TVo8YBn_U_2Q1JZd4eB9rwXwPLr2SBmk7kuS6thYALv3-NvSSNC_66wOfPd5VoKr6SCAX0ZlqSue0/s320/csharp.png",
+        "title": "C# System API : System ex 2",
+        "name": "Jakinzo",
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/c-system-api-system-ex-3.html",
+        "type": "C_Sharp"
+        
+    },
+    {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafG1gMP3m4r_J7pyq29iGrn8ywLbSrztumTmnMN4gVi96CMXUuK9cBt1wZmJ1u_zW78FMK5YfuIpIACRwDp1nvX1lciV30YxyFXVamuMKTyTfQ4TVo8YBn_U_2Q1JZd4eB9rwXwPLr2SBmk7kuS6thYALv3-NvSSNC_66wOfPd5VoKr6SCAX0ZlqSue0/s320/csharp.png",
+        "title": "C# System API : Console",
+        "name": "Jakinzo",
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/c-system-api-console.html",
+        "type": "C_Sharp"
+        
+    },
+    {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafG1gMP3m4r_J7pyq29iGrn8ywLbSrztumTmnMN4gVi96CMXUuK9cBt1wZmJ1u_zW78FMK5YfuIpIACRwDp1nvX1lciV30YxyFXVamuMKTyTfQ4TVo8YBn_U_2Q1JZd4eB9rwXwPLr2SBmk7kuS6thYALv3-NvSSNC_66wOfPd5VoKr6SCAX0ZlqSue0/s320/csharp.png",
+        "title": "C# System API : DateTime",
+        "name": "Jakinzo",
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/c-system-api-datetime.html",
+        "type": "C_Sharp"
+        
+    },
+    {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafG1gMP3m4r_J7pyq29iGrn8ywLbSrztumTmnMN4gVi96CMXUuK9cBt1wZmJ1u_zW78FMK5YfuIpIACRwDp1nvX1lciV30YxyFXVamuMKTyTfQ4TVo8YBn_U_2Q1JZd4eB9rwXwPLr2SBmk7kuS6thYALv3-NvSSNC_66wOfPd5VoKr6SCAX0ZlqSue0/s320/csharp.png",
+        "title": "C# System API : Environment",
+        "name": "Jakinzo",
+        "url": "https://s0urce-c0de.blogspot.com/2024/08/c-system-api-environment.html",
+        "type": "C_Sharp"
         
     }
 ]
