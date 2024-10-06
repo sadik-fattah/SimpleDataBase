@@ -1,5 +1,5 @@
 [
-    {
+{
         "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
         "title": "Android Tutorial - UI 20 exemple 1",
        "name": "Jakinzo",
@@ -7,7 +7,7 @@
        "type": "AndroidUI"
       
    },  
-    {
+ {
     "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
     "title": "Android Tutorial - 20 UI exemple 2",
    "name": "Jakinzo",
@@ -165,6 +165,86 @@
    "name": "Jakinzo",
    "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-2d-graphics-bitmap.html",
    "type": "2DGraphics"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Example 1",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-example.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Context",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-context.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Fragment",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-fragment.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Log",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-log.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Notification",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-notification.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : SharedPreferences",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Application",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-application.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Contact",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-contact.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Environment",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-environment.html",
+   "type": "CoreClass"
+  
+},
+{
+    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZTcT8YGbeAJ0_LPsdpmXiMhPvMYpHVj0if5wTeZryPzRNKk9EHB4rx4lwz0Fr6i80_ufwrXccG5b6AMzyC68OhpSURECEH87ciqh4pziV-Y3YAZKWJ8H06MqD73WMaXLM9oS-E6TwnCI-oDJH3l4tfT5QywNXKjNcaPZccnEPaVJrzTUN2ttaDD7lYI/s320/android.png",
+    "title": "Android Tutorial - Core Class : Resources",
+   "name": "Jakinzo",
+   "url": "https://s0urce-c0de.blogspot.com/2024/10/android-tutorial-core-class-resources.html",
+   "type": "CoreClass"
   
 }
 ]
