@@ -1,5 +1,12 @@
 [
   {
+    "movies_link":"https://geo.dailymotion.com/player.html?video=x95xte0",
+  "movies_type": "Action",
+    "movies_name": "sub servience",
+    "movies_description": "The Beekeeper is a 2024 American action thriller film directed by David Ayer and written by Kurt Wimmer. The film stars Jason Statham, Emmy Raver-Lampman, Josh Hutcherson, Bobby Naderi, Phylicia Rashad, Jemma Redgrave and Jeremy Irons. When his kind-hearted landlady commits suicide after falling victim to a phishing scam, former Beekeeper operative Adam Clay sets out on a brutal campaign for revenge upon those responsible.The Beekeeper was released in the United States by Amazon MGM Studios under the Metro-Goldwyn-Mayer label on January 12, 2024 The film has grossed $152,7 million worldwide",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/The_Beekeeper_poster.jpg/220px-The_Beekeeper_poster.jpg"
+   },
+  {
     "movies_link":"https://www.dailymotion.com/embed/video/x8yn7m2",
   "movies_type": "Action",
     "movies_name": "The Beekeeper (2024 film)",
