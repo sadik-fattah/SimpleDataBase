@@ -6,6 +6,35 @@
   "movies_description": "Franny's Feet is a Canadian animated children's television series created by writer Cathy Moss and fellow Susin Nielsen. The series was produced by Decode Entertainment, in association with Channel Five Broadcasting Limited. The series follows the adventures of Frances \"Franny\" Fantootsie as she tries on a new shoe and travels to different countries.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/23/Frannys_Feet_Logo.png"
  },
+  
+ {
+  "movies_link":"",
+"movies_type": "Crime",
+  "movies_name": "Inherit_the_Viper",
+  "movies_description": "Inherit the Viper is a 2019 American crime drama film directed by Anthony Jerjen, in his feature directorial debut, from a screenplay by Andrew Crabtree. It stars Josh Hartnett, Margarita Levieva, Chandler Riggs, Bruce Dern, Valorie Curry, Owen Teague, and Dash Mihok.",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1c/Inherit_the_Viper_%282019%29_Film_Poster.jpg"
+ },
+ {
+  "movies_link":"",
+"movies_type": "Crime",
+  "movies_name": "The_Murder_of_Nicole_Brown_Simpson",
+  "movies_description": "The Murder of Nicole Brown Simpson is a 2019 American crime horror film directed by Daniel Farrands. The film is loosely based on the murder of Nicole Brown Simpson, presenting a version of events in which Brown Simpson is murdered by serial killer Glen Edward Rogers, and not by O. J. Simpson, her ex-husband and the primary suspect in the case. Though Mena Suvari's performance as Nicole Brown was praised, the film was panned by critics.",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Murder_of_Nicole_Brown_Simpson_poster.jpg"
+ },
+ {
+  "movies_link":"",
+"movies_type": "Mystery",
+  "movies_name": "The_Sonata_(film)",
+  "movies_description": "The Sonata is a 2018 mystery thriller film, directed by Andrew Desmond, from a screenplay by Desmond and Arthur Morin. It stars Freya Tingley, Simon Abkarian, James Faulkner, Rutger Hauer, Matt Barber and James Kermack. It was released in the United States on January 10, 2020, by Screen Media Films. It grossed $146,595 at the box office and received mixed reviews from critics.",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/13/The_Sonata_%282018%29_Film_Poster.jpg"
+ },
+ {
+  "movies_link":"",
+"movies_type": "Drama",
+  "movies_name": "Three_Christs",
+  "movies_description": "Three Christs, also known as State of Mind, is a 2017 American drama film directed, co-produced, and co-written by Jon Avnet and based on Milton Rokeach's nonfiction book The Three Christs of Ypsilanti. It screened in the Gala Presentations section at the 2017 Toronto International Film Festival. The film is also known as: Three Christs of Ypsilanti, The Three Christs of Ypsilanti, Three Christs of Santa Monica, and The Three Christs of Santa Monica.",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a1/Three_Christs_poster.jpg"
+ },
  {
   "movies_link":"",
 "movies_type": "Documentary",
