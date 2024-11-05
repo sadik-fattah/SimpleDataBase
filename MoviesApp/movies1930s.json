@@ -2,14 +2,11 @@
  {
    "movies_link":"",
    "movies_type": "Historical",
-  "movies_name": "Abraham_Lincoln_(1930_film)",
+    "movies_name": "Abraham_Lincoln_(1930_film)",
   "movies_description": "Abraham Lincoln, also released under the title D. W. Griffith's \"Abraham Lincoln\", is a 1930 pre-Code American biographical film about Abraham Lincoln directed by D. W. Griffith. It stars Walter Huston as Lincoln and Una Merkel, in her second speaking role, as Ann Rutledge. The script was co-written by Stephen Vincent Benét, author of the Civil War prose poem John Brown's Body (1928), and Gerrit Lloyd. This was the first of only two sound films made by Griffith.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/80/AbrahmaLincoln1930.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Documentary"
- },
+
  {
    "movies_link":"",
    "movies_type": "Documentary",
@@ -31,10 +28,7 @@
   "movies_description": "All Quiet on the Western Front is a 1930 American pre-Code epic anti-war film based on the 1929 novel of the same name by German novelist Erich Maria Remarque. Directed by Lewis Milestone, it stars Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy, and Ben Alexander.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/All_Quiet_on_the_Western_Front_%281930_film%29_poster.jpg/320px-All_Quiet_on_the_Western_Front_%281930_film%29_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Musical"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -42,10 +36,7 @@
   "movies_description": "Along Came Youth is a 1930 American pre-Code comedy film directed by Lloyd Corrigan and Norman Z. McLeod and written by George Marion, Jr., Maurice Bedel and Marion Dix. The film stars Charles \"Buddy\" Rogers, Frances Dee, Stuart Erwin, William Austin, Leo White and Betty Boyd. The film was released on December 20, 1930, by Paramount Pictures.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Along_Came_Youth_poster.jpg/320px-Along_Came_Youth_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Musical",
@@ -94,14 +85,8 @@
   "movies_description": "Around the Corner is a 1930 American comedy-drama film directed by Bert Glennon and starring George Sidney, Charles Murray and Joan Peers. It was produced and distributed by Columbia Pictures.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7a/Around_the_Corner.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -123,10 +108,7 @@
   "movies_description": "The Bad One is a 1930 American Pre-Code black-and-white musical film directed by George Fitzmaurice, starring Dolores del Río and Edmund Lowe, and featuring Boris Karloff. It is a romantic prison drama film.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The-Bad-One-1930.jpg/320px-The-Bad-One-1930.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Mystery",
@@ -266,10 +248,7 @@
   "movies_description": "The Boudoir Diplomat is a 1930 American pre-Code romantic comedy film directed by Malcolm St. Clair, produced and distributed by Universal Pictures, from the play The Command To Love by Fritz Gottwald and Rudolph Lothar.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Boudoir_Diplomat_lobby_card.jpg/320px-Boudoir_Diplomat_lobby_card.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Documentary"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -3196,10 +3175,7 @@
   "movies_description": "Daddy Long Legs (1931) is an American pre-Code film directed by Alfred Santell and starring Janet Gaynor and Warner Baxter. The story involves an orphan who is taken under the wing of a wealthy benefactor.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/37/Daddy_Long_Legs_%281931%29_Movie_Poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Crime",
@@ -3386,10 +3362,7 @@
   "movies_description": "The Criminal Code is a 1931 American pre-Code romantic crime drama film directed by Howard Hawks and starring Walter Huston and Phillips Holmes. The screenplay, based on a 1929 play of the same name by Martin Flavin, was written by Fred Niblo Jr. and Seton I. Miller, who were nominated for Best Adaptation at the 4th Academy Awards but the award went to Howard Estabrook for Cimarron.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/70/Criminal_Code.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Crime",
@@ -3397,10 +3370,7 @@
   "movies_description": "Enemies of the Law is a 1931 American crime film directed by Lawrence C. Windom and starring Mary Nolan, Johnnie Walker and Lou Tellegen.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Enemies_of_the_Law.jpg/320px-Enemies_of_the_Law.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -3983,14 +3953,8 @@
   "movies_description": "Kiss Me Again  is a 1931 American Pre-Code musical operetta film filmed entirely in Technicolor. It was originally released in the United States as Toast of the Legion late in 1930, but was quickly withdrawn when Warner Bros. realized that the public had grown weary of musicals. The Warner Bros. believed that this attitude would only last for a few months, but, when the public proved obstinate, they reluctantly re-released the film early in 1931 after making a few cuts to the film.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/Kissmeagain.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -5469,10 +5433,7 @@
   "movies_description": "West of Broadway is a 1931 American pre-Code drama film directed by Harry Beaumont and written by Ralph Graves, Bess Meredyth, Gene Markey, and James Kevin McGuinness. The film stars John Gilbert, El Brendel, Lois Moran, Madge Evans and Ralph Bellamy. The film was released on November 28, 1931, by Metro-Goldwyn-Mayer.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/1931_-_Rialto_Theater_Ad_-_12_Dec_MC_-_Allentown_PA.jpg/320px-1931_-_Rialto_Theater_Ad_-_12_Dec_MC_-_Allentown_PA.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -5535,10 +5496,7 @@
   "movies_description": "Women of All Nations is a 1931 American pre-Code military comedy film directed by Raoul Walsh and starring Victor McLaglen, Edmund Lowe, Greta Nissen and El Brendel. It was the second of three sequels to Walsh's 1926 film, What Price Glory?, with McLaglen and Lowe reprising their roles.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film_Poster_-_Women_of_All_Nations.jpg/320px-Film_Poster_-_Women_of_All_Nations.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -5798,10 +5756,7 @@
   "movies_description": "Behind the Mask is a 1932 American pre-Code crime/horror film directed by John Francis Dillon and starring Jack Holt, Boris Karloff and Edward Van Sloan.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Behind_the_Mask_poster.jpg/320px-Behind_the_Mask_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -5875,10 +5830,7 @@
   "movies_description": "Blondie of the Follies is a 1932 American pre-Code comedy film directed by Edmund Goulding and written by Anita Loos and Frances Marion.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/56/Blondie_of_the_Follies_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -6206,10 +6158,7 @@
   "movies_name": "Divorce_in_the_Family",
   "movies_description": "Divorce in the Family is a 1932 American pre-Code drama film directed by Charles Reisner and written by Delmer Daves. The film stars Jackie Cooper, Conrad Nagel, Lewis Stone, Lois Wilson and Jean Parker. It was released on August 27, 1932, by Metro-Goldwyn-Mayer."
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Crime",
@@ -6332,10 +6281,7 @@
   "movies_description": "Faithless is a 1932 American pre-Code romantic drama film about a spoiled socialite who learns a sharp lesson when she loses all her money during the Great Depression. The film stars Tallulah Bankhead and Robert Montgomery and is based on Mildred Cram's novel Tinfoil, which was the film's working title.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poster_-_Faithless_01.jpg/320px-Poster_-_Faithless_01.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Crime",
@@ -6473,10 +6419,7 @@
   "movies_description": "Forgotten Commandments is a 1932 American pre-Code drama film directed by Louis J. Gasnier and William Schorr and written by James B. Fagan and Agnes Brand Leahy. The film stars Sari Maritza, Gene Raymond, Marguerite Churchill, Irving Pichel, Harry Beresford and Kent Taylor. The film was released on May 22, 1932, by Paramount Pictures.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/68/Forgotten_Commandments_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -7034,10 +6977,7 @@
   "movies_description": "The Local Bad Man is a 1932 American pre-Code Western film directed by Otto Brower.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/57/Thelocalbadman.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -7154,10 +7094,7 @@
   "movies_description": "The Man Called Back is a 1932 American Pre-Code film directed by Robert Florey.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Man_Called_Back_poster.jpg/320px-Man_Called_Back_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -7453,10 +7390,7 @@
   "movies_description": "Night World is a 1932 American pre-Code drama film featuring Lew Ayres, Mae Clarke, and Boris Karloff. The supporting cast includes George Raft and Hedda Hopper.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2b/Night_World_1932_film.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -7818,10 +7752,7 @@
   "movies_description": "The Rider of Death Valley is a 1932 American Western film directed by Albert S. Rogell and written by Jack Cunningham. The film stars Tom Mix, Lois Wilson, Fred Kohler, Forrest Stanley, Edith Fellows and Willard Robertson. The film was released on April 24, 1932, by Universal Pictures.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_Rider_of_Death_Valley.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -8314,10 +8245,7 @@
   "movies_description": "Tess of the Storm Country is a 1932 American pre-Code drama film directed by directed by Alfred Santell and starring Janet Gaynor, Charles Farrell, and Dudley Digges. It was released by Fox Film Corporation. It is based on the novel of the same name by Grace Miller White and its adaptation for the stage by Rupert Hughes.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/88/Tess_of_the_Storm_Country_1932.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -8869,10 +8797,7 @@
   "movies_description": "42nd Street is a 1933 American pre-Code musical film directed by Lloyd Bacon, and a script by Rian James and James Seymour, adapted from the 1932 novel of the same name by Bradford Ropes. Starring an ensemble cast of Warner Baxter, Bebe Daniels, George Brent, Ruby Keeler, Dick Powell and Ginger Rogers, the film revolved around the rehearsals of a Broadway show at the height of the Great Depression, and its cast and crew. The film was choreographed by Busby Berkeley, with music by Harry Warren and lyrics by Al Dubin.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/42nd_Street_%281933_film_poster%29.jpg/320px-42nd_Street_%281933_film_poster%29.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -9047,10 +8972,7 @@
   "movies_description": "Best of Enemies is a 1933 American pre-Code comedy film directed by Rian James and written by Sam Mintz and Rian James. The film stars Charles \"Buddy\" Rogers, Marian Nixon, Frank Morgan, Greta Nissen, Joseph Cawthorn and Arno Frey. The film was released on June 23, 1933, by Fox Film Corporation.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Best_of_Enemies_1933_poster.jpg/320px-Best_of_Enemies_1933_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -9444,10 +9366,7 @@
   "movies_name": "Day_of_Reckoning_(1933_film)",
   "movies_description": "Day of Reckoning is a 1933 American pre-Code drama film starring Richard Dix, Madge Evans and Conway Tearle. It is based on a novel by Morris Lavine. When a man is sent to prison, his wife is romanced by another man."
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Science Fiction",
@@ -9980,10 +9899,7 @@
   "movies_name": "Her_Resale_Value",
   "movies_description": "Her Resale Value is a 1933 American pre-Code drama film directed by B. Reeves Eason and starring June Clyde, George J. Lewis and Noel Francis. The film's sets were designed by the art director Paul Palmentola."
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -10053,10 +9969,7 @@
   "movies_description": "Hot Pepper (1933) is an American pre-Code comedy film starring Lupe Vélez, Edmund Lowe, and Victor McLaglen, directed by John G. Blystone and released by Fox Film Corporation. The film appeared before the enforcement of the Production Code.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hot_Pepper_-_1933_film.jpg/320px-Hot_Pepper_-_1933_film.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Musical"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -10167,10 +10080,7 @@
   "movies_description": "The Invisible Man is a 1933 American science fiction horror film directed by James Whale based on H. G. Wells' 1897 novel The Invisible Man, produced by Universal Pictures, and starring Gloria Stuart, Claude Rains and William Harrigan. The film involves a Dr. Jack Griffin (Rains) who is covered in bandages and has his eyes obscured by dark glasses, the result of a secret experiment that makes him invisible, taking lodging in the village of Iping. Never leaving his quarters, the stranger demands that the staff leave him completely alone until his landlady discovers he is invisible. Griffin returns to the laboratory of his mentor, Dr. Cranley, where he reveals his secret to Dr. Kemp and former fiancée Flora Cranley who soon learn that Griffin's discovery has driven him insane, leading him to prove his superiority over other people by performing harmless pranks at first and eventually turning to murder.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Invisible_Man_%281933_poster_-_Style_B%29.jpg/320px-The_Invisible_Man_%281933_poster_-_Style_B%29.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -10458,10 +10368,7 @@
   "movies_name": "Man_Hunt_(1933_film)",
   "movies_description": "Man Hunt is a 1933 American pre-Code mystery film directed by Irving Cummings and written by Sam Mintz and Leonard Praskins. The film stars Junior Durkin, Charlotte Henry, Dorothy Davenport, Arthur Vinton and Edward LeSaint. The film was released on May 24, 1933, by RKO Pictures."
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -11479,10 +11386,7 @@
   "movies_description": "This Day and Age is a 1933 American pre-Code film directed by Cecil B. DeMille and starring Charles Bickford and Richard Cromwell. It is one of his rarest films and has been released on home video through the Universal Pictures Vault Series DVD collection.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/72/This_Day_and_Age_FilmPoster.jpeg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Documentary"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -11847,10 +11751,7 @@
   "movies_description": "India Speaks is a 1933 Pre-Code adventure film, combining elements of documentaries and travelogue programs, mostly taking place on the Indian sub-continent along with staged bits spliced in to aid story flow. Produced by Walter Futter from a screenplay by Norman Houston, the film was directed, narrated and starring Richard Halliburton. A sequel to the popular film Africa Speaks!.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/ba/IndiaSpeaksFilmPoster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Documentary"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -11863,10 +11764,7 @@
   "movies_name": "Lot_in_Sodom",
   "movies_description": "Lot in Sodom is a 1933 short silent experimental film, based on the Biblical tale of the city of Sodom and Gomorrah. It was directed by James Sibley Watson and Melville Webber."
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Musical",
@@ -11881,10 +11779,7 @@
   "movies_description": "6 Day Bike Rider is a 1934 American comedy film directed by Lloyd Bacon, written by Earl Baldwin, and starring Joe E. Brown, Maxine Doyle, Frank McHugh, Gordon Westcott, Arthur Aylesworth and Lottie Williams. The film's production lasted for 11 days, starting on July 9, 1934. A multi-bicyclist collision happened during close-up filming. Reggie McNamara, who was known as the \"Iron Man\" due to his 108 six-day bicycle races, had his film debut as one of the racers. It was released by Warner Bros. on October 20, 1934.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/64/6_Day_Bike_Rider_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Historical",
@@ -12124,10 +12019,7 @@
   "movies_name": "The_Border_Menace",
   "movies_description": "The Border Menace is a 1934 American western film directed by Robert F. Hill and starring Bill Cody, Miriam Rice, George Chesebro and Jimmy Aubrey who also edited the film. It was produced by an independent Poverty Row outfit Aywon Film Corporation for release as a second feature. Location shooting took place at the Walker Ranch in Newhall, California."
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -12963,10 +12855,7 @@
   "movies_description": "Hide-Out is a 1934 American pre-Code comedy, crime, drama, romance film directed by W. S. Van Dyke and starring Robert Montgomery and Maureen O'Sullivan. It also features a young Mickey Rooney. The film was nominated for an Academy Award for Best Writing - Original Story. It was re-made in 1941 as I'll Wait for You.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/Hide-Out_FilmPoster.jpeg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -13294,10 +13183,7 @@
   "movies_description": "The Life of Vergie Winters is a 1934 American Pre-Code film, starring Ann Harding and John Boles.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a7/The_Life_of_Vergie_Winters.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -14030,10 +13916,7 @@
   "movies_description": "Randy Rides Alone is a 1934 American Pre-Code Western film starring John Wayne, Yakima Canutt, and George Hayes. The 53-minute black-and-white film was directed by Harry L. Fraser, produced by Paul Malvern for Lone Star Productions, and released by Monogram Pictures.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9f/Poster_of_the_movie_Randy_Rides_Alone.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -14041,10 +13924,7 @@
   "movies_description": "Rawhide Mail is a 1934 American Western film directed by Bernard B. Ray and starring Jack Perrin, Nelson McDowell and Chris-Pin Martin.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0a/Rawhide_Mail.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -14086,10 +13966,7 @@
   "movies_description": "The Richest Girl in the World is a 1934 romantic comedy film directed by William A. Seiter and starring Miriam Hopkins and Joel McCrea. Norman Krasna was nominated for the Academy Award for Best Story. It was remade in 1944 as Bride by Mistake with Laraine Day and Alan Marshal.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Richest_Girl_in_the_World.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -14307,10 +14184,7 @@
   "movies_description": "Smarty, known in the United Kingdom as Hit Me Again, is a 1934 American Pre-Code comedy film directed by Robert Florey and starring Warren William and Joan Blondell. It was adapted from F. Hugh Herbert's play by Carl Erickson (writer).",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Smarty_1934_film_poster.jpeg/320px-Smarty_1934_film_poster.jpeg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -14466,10 +14340,7 @@
   "movies_description": "Terror of the Plains is a 1934 American Western film directed by Harry S. Webb and starring Tom Tyler, Roberta Gale and William Gould.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Terror_of_the_Plains.jpg/320px-Terror_of_the_Plains.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Mystery",
@@ -14752,10 +14623,7 @@
   "movies_name": "Whirlpool_(1934_film)",
   "movies_description": "Whirlpool is a 1934 American pre-Code drama film directed by Roy William Neill and starring Jack Holt and Jean Arthur. The screenplay concerns a carnival owner convicted of manslaughter after a man is killed in a fight."
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -14881,10 +14749,7 @@
   "movies_description": "Accent on Youth is a 1935 American comedy film directed by Wesley Ruggles and written by Herbert Fields and Claude Binyon based on the 1934 play of the same name written by Samson Raphaelson. The film stars Sylvia Sidney and Herbert Marshall and features Phillip Reed, Holmes Herbert, Catherine Doucet, Astrid Allwyn and Lon Chaney Jr. The film was released on August 23, 1935, by Paramount Pictures.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c0/Accent_on_Youth_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -15440,10 +15305,7 @@
   "movies_description": "The Crusades is a 1935 American historical adventure film produced and directed by Cecil B. DeMille, and originally released by Paramount Pictures. It stars Loretta Young as Berengaria of Navarre and Henry Wilcoxon as Richard I of England. It was nominated for an Academy Award for Best Cinematography as well as for Best Foreign Film at the Venice Film Festival in 1935.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/17/The_Crusades.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Musical"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -16183,10 +16045,7 @@
   "movies_description": "It Happened in New York is a 1935 American musical comedy film directed by Alan Crosland and starring Gertrude Michael, Heather Angel and Lyle Talbot. It is based on a play Bagdad on the Hudson by Ward Morehouse and Jean Dalrymple. A New York taxi driver is hired as a bodyguard to a film star, whose manager is always involving her in publicity stunts.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/26/It_Happened_in_New_York.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -16836,10 +16695,7 @@
   "movies_name": "On_Probation_(1935_film)",
   "movies_description": "On Probation is a 1935 American drama film directed by Charles Hutchison and starring Monte Blue, Lucile Browne and William Bakewell."
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -17731,10 +17587,7 @@
   "movies_name": "Two_Sinners",
   "movies_description": "Two Sinners is a 1935 film directed by Arthur Lubin."
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -18189,10 +18042,7 @@
   "movies_description": "Beware of Ladies is a 1936 American crime film directed by Irving Pichel and starring Donald Cook, Judith Allen and George Meeker. A female newspaper reporter is sent by her editor to cover a political contest between a naïve newcomer and a seasoned and corrupt veteran.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/17/Beware_of_Ladies_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -19454,10 +19304,7 @@
   "movies_description": "Idaho Kid is a 1936 American Western film directed by Robert F. Hill and starring Rex Bell, Marion Shilling and David Sharpe.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Idaho_Kid_film_poster.jpg/320px-Idaho_Kid_film_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Science Fiction",
@@ -20066,10 +19913,7 @@
   "movies_name": "Mysterious_Crossing",
   "movies_description": "Mysterious Crossing is a 1936 American film. It was directed by Arthur Lubin."
  },
- {
-   "movies_link":"",
-   "movies_type": "Comedy"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -20466,10 +20310,7 @@
   "movies_description": "The Riding Avenger is a 1936 American Western film directed by Harry L. Fraser and starring Hoot Gibson, Ruth Mix and June Gale. Originally made by Diversion Pictures, it was picked up for distribution by Grand National Pictures.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/The_Riding_Avenger.jpg/320px-The_Riding_Avenger.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -20907,10 +20748,7 @@
   "movies_description": "Tarzan Escapes is a 1936 Tarzan film based on the character created by Edgar Rice Burroughs. It was the third in the Metro-Goldwyn-Mayer Tarzan series to feature Johnny Weissmuller as the \"King of the Apes\". Previous films were Tarzan the Ape Man (1932) and Tarzan and His Mate (1934), with Jane's bikini-like attire and the famous skinny-dipping sequence. Weissmuller and O'Sullivan starred together in three more Tarzan films, Tarzan Finds a Son! (1939), Tarzan's Secret Treasure (1941) and Tarzan's New York Adventure (1942).",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/df/Tarzan_Escapes.jpeg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -21792,10 +21630,7 @@
   "movies_description": "Born to the West is a 1937 American Western film starring John Wayne, Marsha Hunt, and John Mack Brown. Filmed in black and white and based upon a Zane Grey novel, the movie incorporates footage from an earlier and higher budgeted silent version, a common practice of the era. The picture features fast chases, gun-fights, unusual poker gambling, and peppy light dialogue for the love interest.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/da/Born_to_the_West_FilmPoster.jpeg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Documentary"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -22652,10 +22487,7 @@
   "movies_description": "Hollywood Hotel is a 1937 American romantic musical comedy film, directed by Busby Berkeley, starring Dick Powell, Rosemary Lane, Lola Lane, Hugh Herbert, Ted Healy, Glenda Farrell and Johnnie Davis, featuring Alan Mowbray and Mabel Todd, and with Allyn Joslyn, Grant Mitchell and Edgar Kennedy.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e1/Hollywood_Hotel_-_Poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -24055,10 +23887,7 @@
   "movies_description": "Special Agent K-7 is a 1937 American mystery film directed by Raymond K. Johnson and starring Walter McGrail, Queenie Smith and Irving Pichel. It was based on the radio series of the same title.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Special_Agent_K-7.jpg/320px-Special_Agent_K-7.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -24324,10 +24153,7 @@
   "movies_description": "Trailin' Trouble is a 1937 American Western film directed by Arthur Rosson and starring Ken Maynard, Lona Andre, and Roger Williams. It was released on November 12, 1937. During production its working title was Alias Blackie Burke.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Trailin%27_Trouble_poster.jpg/320px-Trailin%27_Trouble_poster.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Crime",
@@ -24408,10 +24234,7 @@
   "movies_description": "Under Suspicion is a 1937 American mystery film directed by Lewis D. Collins and starring Jack Holt, Katherine DeMille and Luis Alberni.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/85/Under_Suspicion_%281937_film%29.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Musical",
@@ -25663,10 +25486,7 @@
   "movies_name": "Gun_Law_(1938_film)",
   "movies_description": "Gun Law is a 1938 film. It made a profit of $47,000."
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -26363,10 +26183,7 @@
   "movies_description": "Mystery House is a 1938 American mystery crime film directed by Noel M. Smith and starring Dick Purcell and Ann Sheridan as nurse Sarah Keate, and is based on the 1930 novel The Mystery of Hunting's End by Mignon G. Eberhart. Sheridan also played the same character in The Patient in Room 18, released in January 1938, while Aline MacMahon played her in While the Patient Slept in 1935.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Mystery_House_%281938_film%29.jpg/320px-Mystery_House_%281938_film%29.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Drama",
@@ -26961,10 +26778,7 @@
   "movies_description": "Sing You Sinners is a 1938 American musical comedy film directed by Wesley Ruggles and starring Bing Crosby, Fred MacMurray, Ellen Drew, and Donald O'Connor. Written by Claude Binyon, the film is about three singing brothers who go to California to find their fortune. Initially the film was to be titled \"The Unholy Beebes\" and then \"Harmony for Three\" before finishing with \"Sing You Sinners\". Filming took place in April/May 1938 in Hollywood. Race track scenes were filmed at the Pomona Fairgrounds and at Santa Anita using two dozen of Crosby's horses. Sing You Sinners was premiered on August 5, 1938 at the Del Mar racetrack with the New York premiere taking place on August 16.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6d/Poster_of_the_movie_Sing_You_Sinners.jpg"
  },
- {
-   "movies_link":"",
-   "movies_type": "Musical"
- },
+
  {
    "movies_link":"",
    "movies_type": "Western",
@@ -27594,10 +27408,7 @@
   "movies_name": "Women_Are_Like_That",
   "movies_description": "Women Are Like That is a 1938 American drama film directed by Stanley Logan and written by Horace Jackson. The film stars Kay Francis, Pat O'Brien, Ralph Forbes, Melville Cooper, Thurston Hall and Grant Mitchell. The film was released by Warner Bros. on April 24, 1938."
  },
- {
-   "movies_link":"",
-   "movies_type": "Drama"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
@@ -27702,10 +27513,7 @@
   "movies_description": "The Adventures of Sherlock Holmes is a 1939 American mystery adventure film based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories. Although claiming to be an adaptation of the 1899 play Sherlock Holmes by William Gillette, the film bears little resemblance to the play.",
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Adventures_of_Sherlock_Holmes_-_1939-_Poster.png"
  },
- {
-   "movies_link":"",
-   "movies_type": "Western"
- },
+
  {
    "movies_link":"",
    "movies_type": "Comedy",
