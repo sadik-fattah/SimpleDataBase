@@ -1,5 +1,19 @@
 [
   {
+    "movies_link":"https://www.facebook.com/video/embed?video_id=3942529809366163",
+    "movies_type": "Action",
+      "movies_name": "Smile 2",
+      "movies_description": "About to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her past.",
+      "thumbnail": "https://fr.web.img6.acsta.net/img/41/21/4121e4ef73d8ec9a134b9bfa8dc98321.jpg"
+     },
+  {
+  "movies_link":"https://www.facebook.com/video/embed?video_id=2095555050874078",
+  "movies_type": "Action",
+    "movies_name": "Long Distance Senza Ossigeno",
+    "movies_description": "Un minatore di asteroidi naufraga sulla superficie di un pianeta alieno. Per raggiungere l'unico altro sopravvissuto allo schianto dovrà farsi strada attraverso un ambiente ostile, dove il pericolo non arriva solo dalle strane creature che gli danno la caccia, ma anche dalle scorte limitate di ossigeno.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdSB5Tknpijaamcqmgo4u5hf-MeS1eEipmag&s"
+   },
+  {
     "movies_link":"https://www.facebook.com/video/embed?video_id=1238563287292999",
   "movies_type": "Sci-Fi",
     "movies_name": " Apocalypse Z: The Beginning of the End",
